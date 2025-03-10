@@ -1,10 +1,10 @@
 package util;
 
 import model.City;
+import records.Request;
 import serialize.SerializeCity;
 
 import java.io.*;
-import java.nio.ByteBuffer;
 
 public class RequestGenerator {
 

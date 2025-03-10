@@ -1,4 +1,4 @@
-package util;
+package records;
 
 import java.io.Serializable;
 
